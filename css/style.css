@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+   
+}
+ body{
+    background-color:black ;
+ }
+ h1{
+    color: white;
+    text-align: center;
+ }
+ p{
+    color: white;
+    text-align: center;
+ }
+ img{
+    width: 500px;
+    height: 500px;
+ }
+ .imagen{
+ 
+ }
+ .footer {
+    color: white;
+    text-align:center;
+ }
